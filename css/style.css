@@ -18,3 +18,7 @@ footer h6{
     font-weight: bold;
     color: var(--bs-primary);
 }
+
+tfoot{
+    font-size: 135% !important;
+}
